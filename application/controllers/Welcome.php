@@ -35,7 +35,7 @@ class Welcome extends CI_Controller
     {
         $requestData = $_REQUEST;
 
-        //declare coloum for shoting
+        //declare coloum for shorting
         $columns = array(
             0 => 'sd_student_id',
             1 => 'student_name',
